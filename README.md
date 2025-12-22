@@ -1,6 +1,6 @@
 # [royschor.com](http://royschor.com)
 
-### Live and Active
+[![website](https://img.shields.io/website?label=website&url=http%3A%2F%2Froyschor.com%2F)](http://royschor.com/)
 
 This repository contains the code for my current personal website. I'm planning to create a new repository for a revamped version of the site and will deprecate this one in favor of the update.
 
